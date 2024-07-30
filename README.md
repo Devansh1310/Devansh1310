@@ -7,8 +7,6 @@
 
 - 📫 You can reach me at **devansh.bhardwaj1310@gmail.com**
 
-<br>
-
 <h3 align="center">My Skills</h3>
 
 <div align="center">
@@ -37,6 +35,5 @@
 
 <h3 align="center">My Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh1310&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub stats" />
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Devansh1310&theme=transparent&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh1310&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
