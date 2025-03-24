@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Devansh👋</h1>
-<h3 align="center">A passionate computer science student</h3>
-
-- 🔭 I’m currently working on the **CS50AI Course.**
-
-- 👨‍💻 All of my projects are available at my Github
 
 - 📫 You can reach me at **devansh.bhardwaj1310@gmail.com**
 
@@ -23,10 +18,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
