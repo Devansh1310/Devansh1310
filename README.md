@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Devansh👋</h1>
 
-- 📫 You can reach me at **devansh.bhardwaj1310@gmail.com**
+- 📫**devansh.bhardwaj1310@gmail.com**
 
 <h3 align="center">My Skills</h3>
 
