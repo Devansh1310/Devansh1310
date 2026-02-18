@@ -1,11 +1,11 @@
-<h4 align="left">📫devansh.bhardwaj1310@gmail.com</h4>
+<h4 align="center">📫devansh.bhardwaj1310@gmail.com</h4>
 <hr>
-<h3 align="left">My Skills</h3>
+<h3 align="center">My Skills</h3>
 
 <br>
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -22,9 +22,9 @@
   <img width="12" />
 </div>
 <hr>
-<h3 align="left">My Stats</h3>
+<h3 align="center">My Stats</h3>
 
-<div align="left">
+<div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=Devansh1310&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Devansh1310&theme=transparent&hide_border=true)<br/>
