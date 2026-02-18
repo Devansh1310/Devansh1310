@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Devansh👋</h1>
-
 - 📫**devansh.bhardwaj1310@gmail.com**
 
 <h3 align="center">My Skills</h3>
@@ -19,7 +17,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 <br>
@@ -28,7 +25,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Devansh1310&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devansh1310&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
