@@ -1,7 +1,8 @@
 <h4 align="center">📫devansh.bhardwaj1310@gmail.com</h4>
 <h4 align="center">LeetCode: https://leetcode.com/u/user2153oB/</h4>
-<h5 align="center">Currently learning DSA and just started a LeetCode. </h5>
-<h5 align="center">In the process of working on small projects to refresh my programming skills; as well as migrating past projects onto here. </h5>
+<h6 align="center">- Currently learning DSA and just started a LeetCode. 
+- In the process of working on small projects to refresh my programming skills; as well as migrating past projects onto here.
+</h5>
 <hr>
 <h3 align="center">My Skills</h3>
 
